@@ -18,5 +18,5 @@ Perfect for learning **quick UI feedback**, **animations**, and **short tutorial
 ```bash
 git clone https://github.com/AliHCoder/react-hot-toast-demo.git
 cd react-hot-toast-demo
-npm install
-npm start
+npm install or yarn install
+npm run dev
